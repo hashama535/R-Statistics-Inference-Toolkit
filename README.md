@@ -4,7 +4,7 @@
 
 Welcome to my professional statistical portfolio. This repository serves as a demonstration of advanced statistical computational techniques developed during my **BS-Statistics (4th Semester)** at the **College of Statistical Sciences (CSS), University of the Punjab**.
 
-## ** Key Technical Features**
+##  Key Technical Features
 
 * **Matrix-Based Regression**: Manual implementation of Ordinary Least Squares (OLS) using the fundamental matrix equation:
     $$b = (X'X)^{-1}X'y$$
