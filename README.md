@@ -2,7 +2,7 @@
 #  R-Statistics-Inference-Toolkit
 ### **Precision Statistical Analysis & Predictive Modeling in R**
 
-Welcome to my professional statistical portfolio. This repository serves as a demonstration of advanced statistical computational techniques developed during my **BS-Statistics (4th Semester)** at the **College of Statistical Sciences (CSS), University of the Punjab**.
+Welcome to my professional statistical portfolio. This repository serves as a demonstration of advanced statistical computational techniques developed during my **BS-Statistics at the **College of Statistical Sciences (CSS), University of the Punjab**.
 
 ##  Key Technical Features
 
@@ -29,4 +29,5 @@ Welcome to my professional statistical portfolio. This repository serves as a de
 * **Name**: Malik Hashaam Asif
 * **Roll Number**: 17-24
 * **Institution**: College of Statistical Sciences (CSS), University of the Punjab
+* **Email**: hashama535@gmail.com
 
