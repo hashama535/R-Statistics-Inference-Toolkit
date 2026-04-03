@@ -29,4 +29,4 @@ Welcome to my professional statistical portfolio. This repository serves as a de
 * **Name**: Malik Hashaam Asif
 * **Roll Number**: 17-24
 * **Institution**: College of Statistical Sciences (CSS), University of the Punjab
-* **Freelance**: [Insert your Jobbers.io Link Here]
+
